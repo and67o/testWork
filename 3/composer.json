@@ -1,0 +1,16 @@
+{
+    "name": "root/3",
+    "authors": [
+        {
+            "name": "Олег Андреенков",
+            "email": "oleg@eljur.team"
+        }
+    ],
+    "require": {},
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
